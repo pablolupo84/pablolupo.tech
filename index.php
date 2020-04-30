@@ -41,9 +41,9 @@
 
 <div class="contenedor" id="contenedor-titulo-flex">
   <div class="contenedor-titulo">
-    <h1>Lleva Tu Negocio</h1>
-    <h1>Al Siguiente Nivel</h1>
-    <h1>Con Un SITIO WEB</h1>
+    <h2>Lleva Tu Negocio</h2>
+    <h2>Al Siguiente Nivel</h2>
+    <h2>Con Un SITIO WEB</h2>
     <a href="#mis-trabajos">VER MIS TRABAJOS</a>
   </div>
 </div>
